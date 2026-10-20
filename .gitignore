@@ -1,0 +1,51 @@
+# === Compilados de Java ===
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# === Carpetas de construcción (Build Tools) ===
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+
+# === IDEs y Editores ===
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.settings/
+.buildpath
+.project
+bin/
+
+# Visual Studio Code
+.vscode/
+
+# === Sistema Operativo ===
+.DS_Store
+Thumbs.db
